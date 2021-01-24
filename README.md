@@ -1,0 +1,7 @@
+
+```
+AP : M315FXXU2ATJ9
+CSC : M315FODM2ATJ9 (INS)
+Android : Q(Android 10)
+Build Date : 20201027222034
+```
